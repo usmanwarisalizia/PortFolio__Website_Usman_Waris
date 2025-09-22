@@ -4,6 +4,6 @@ This is a portfolio website built with Next.js featuring a responsive and user-f
 
 ![image alt](https://github.com/usmanwarisalizia/PortFolio__Website_Usman_Waris/blob/7d0ee3537dfe0daf76b25576f84d68dfa72d64a6/portfolioimg2.png)
 
-![image alt]()
+![image alt](https://github.com/usmanwarisalizia/PortFolio__Website_Usman_Waris/blob/6fc534d672e2bda546277d9748d81371cb885ac0/portfolioimg3.png)
 
 ![image alt]()
