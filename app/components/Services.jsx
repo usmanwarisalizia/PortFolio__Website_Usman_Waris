@@ -26,8 +26,8 @@ const Services = () => {
                     whileInView={{ opacity: 1 }}
                     transition={{ duration: 0.5, delay: 0.7 }}
                     className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
-                    I am a frontend developer from Lahore, Pakistan with 6 month  of experience
-                    in multiple companies like Gamica Cloud(FSD), YODO and Innovative Saudia Company Lahore.
+                    I am a frontend developer from Lahore, Pakistan with 1+ Year  of experience
+                    in multiple companies like Gamica Cloud(FSD), YODO and Innovative Saudia Company, Techietribe Company Lahore.
                 </motion.p>
 
                 <motion.div
